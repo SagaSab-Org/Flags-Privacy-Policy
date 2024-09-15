@@ -3,40 +3,32 @@ Privacy Policy
 Effective Date: 2024 September 15th.
 
 1. Introduction
-
 Welcome to Flags! We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our app, Flags. By using our app, you agree to the collection and use of information in accordance with this policy.
 
 2. Information We Collect
-
 We collect the following types of information:
-
 Personal Information: We do not collect any personal information that can identify you directly, such as your name, email address, or phone number.
 Usage Data: We collect data on how you interact with the app, including the flags you view, the countries you search for, and the features you use.
 Technical Data: We collect information about your device, including the device ID, operating system, and app version.
+
 3. How We Use Your Information
-
 We use the information we collect to:
-
 Provide and maintain our app
 Improve our app and its features
 Analyze how users interact with the app to enhance user experience
 Send you notifications and updates related to the app (if you have opted in)
-4. Data Sharing and Disclosure
 
+4. Data Sharing and Disclosure
 We do not share or sell your personal information to third parties. We may share aggregated or anonymized data with third parties for analytics and app improvement purposes, but this data will not be used to identify you personally.
 
 5. Security
-
 We take reasonable measures to protect your information from unauthorized access, use, or disclosure. However, please be aware that no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
 
 6. Third-Party Services
-
 Our app may contain links to third-party websites or services. We are not responsible for the privacy practices or content of these third-party sites. We encourage you to review the privacy policies of any third-party services you access through our app.
 
 7. Children's Privacy
-
 Our app is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete that information.
 
 8. Changes to This Privacy Policy
-
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy
